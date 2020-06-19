@@ -33,5 +33,3 @@ cd dog-project
 ```
 jupyter notebook dog_app.ipynb
 ```
-
-\
